@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_green_button_action_buttons",
+  "info": {
+    "displayName": "green_button",
+    "icon": "arrow-alt-circle-up",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "style": {
+      "type": "enumeration",
+      "enum": [
+        "filled",
+        "outlined"
+      ]
+    }
+  }
+}
