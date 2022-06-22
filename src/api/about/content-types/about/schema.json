@@ -59,15 +59,15 @@
       "repeatable": false,
       "component": "page.our-offices-section"
     },
-    "ht_digital_services": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.ht-digital-services"
-    },
     "career_benefits": {
       "type": "component",
       "repeatable": false,
       "component": "page.career-benefits"
+    },
+    "ht_digital_services": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.ht-digital-services"
     }
   }
 }
