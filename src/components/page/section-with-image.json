@@ -18,14 +18,17 @@
         "audios"
       ]
     },
+    "label": {
+      "displayName": "label",
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.label"
+    },
     "heading": {
       "type": "string"
     },
     "description": {
       "type": "richtext"
-    },
-    "lable": {
-      "type": "string"
     },
     "image_location": {
       "type": "enumeration",
