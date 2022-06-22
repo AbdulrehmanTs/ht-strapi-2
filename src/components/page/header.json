@@ -8,9 +8,7 @@
   "options": {},
   "attributes": {
     "title": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.label"
+      "type": "string"
     },
     "metaDescription": {
       "type": "string"
