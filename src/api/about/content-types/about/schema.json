@@ -63,6 +63,11 @@
       "type": "component",
       "repeatable": false,
       "component": "shared.ht-digital-services"
+    },
+    "career_benefits": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.career-benefits"
     }
   }
 }
