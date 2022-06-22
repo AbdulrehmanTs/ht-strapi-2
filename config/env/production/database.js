@@ -14,6 +14,14 @@ module.exports = ({ env }) => ({
         rejectUnauthorized: false
       },
     },
+    pool: {
+      min: 0,
+      max: 10,
+      idleTimeoutMillis: 30000000,
+      createTimeoutMillis: 30000000,
+      acquireTimeoutMillis: 30000000,
+      propagateCreateError: false,
+    },
     debug: false,
   },
 });
