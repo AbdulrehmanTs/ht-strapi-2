@@ -23,17 +23,6 @@
       "type": "component",
       "repeatable": false,
       "component": "shared.action-button"
-    },
-    "heroImage": {
-      "type": "media",
-      "multiple": true,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
     }
   }
 }
