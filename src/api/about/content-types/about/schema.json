@@ -60,7 +60,9 @@
       "component": "page.our-offices-section"
     },
     "career_benefits": {
-      "type": "richtext"
+      "type": "component",
+      "repeatable": false,
+      "component": "page.career-benefits"
     },
     "ht_digital_services": {
       "type": "component",
