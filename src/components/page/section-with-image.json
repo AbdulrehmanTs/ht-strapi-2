@@ -24,9 +24,6 @@
     "description": {
       "type": "richtext"
     },
-    "lable": {
-      "type": "string"
-    },
     "image_location": {
       "type": "enumeration",
       "enum": [
@@ -38,6 +35,11 @@
       "type": "component",
       "repeatable": false,
       "component": "shared.action-button"
+    },
+    "label": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.label"
     }
   }
 }
