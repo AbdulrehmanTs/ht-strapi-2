@@ -7,13 +7,12 @@
   },
   "options": {},
   "attributes": {
-    "metaDescription": {
+    "title": {
       "type": "string"
     },
-    "title": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.label"
+    "metaDescription": {
+      "type": "string"
     }
+    
   }
 }
