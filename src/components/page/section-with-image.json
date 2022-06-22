@@ -19,7 +19,9 @@
       ]
     },
     "heading": {
-      "type": "string"
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.label"
     },
     "description": {
       "type": "richtext"
