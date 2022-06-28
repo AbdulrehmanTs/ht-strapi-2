@@ -10,7 +10,7 @@
     "label": {
       "displayName": "label",
       "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "component": "shared.label"
     },
     "heading": {
