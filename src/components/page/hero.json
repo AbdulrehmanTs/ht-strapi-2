@@ -8,10 +8,7 @@
   "options": {},
   "attributes": {
     "label": {
-      "displayName": "label",
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.label"
+      "type": "string"
     },
     "heading": {
       "type": "string"
