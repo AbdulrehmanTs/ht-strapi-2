@@ -13,6 +13,12 @@
       "repeatable": true,
       "component": "shared.label"
     },
+    "label2": {
+      "displayName": "label",
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.label"
+    },
     "heading": {
       "type": "string"
     },
